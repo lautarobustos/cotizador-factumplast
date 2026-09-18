@@ -4,6 +4,7 @@ const tarifas = require('./precios.json');
 const app = express();
 app.use(express.json());
 
+// Endpoint de cotización que consulta Tiendanube
 app.post('/cotizar-envio', (req, res) => {
   try {
     console.log('--- NUEVA CONSULTA ENTRANTE ---');
@@ -15,7 +16,7 @@ app.post('/cotizar-envio', (req, res) => {
     const tarifaDestino = tarifas[cp];
 
     if (!tarifaDestino) {
-      console.log(`CP ${cp} no encontrado`);
+      console.log(`CP ${cp} no encontrado en precios.json`);
       return res.status(200).json({ rates: [] });
     }
 
@@ -46,16 +47,24 @@ app.post('/cotizar-envio', (req, res) => {
       costoTotalEnvio += Number(precioUnitario || 0) * cantidad;
     }
 
-    // Estructura requerida por Tiendanube
+    // Calculamos entrega estimada (de 3 a 7 días a partir de hoy)
+    const hoy = new Date();
+    const minDate = new Date(hoy);
+    minDate.setDate(hoy.getDate() + 3);
+    const maxDate = new Date(hoy);
+    maxDate.setDate(hoy.getDate() + 7);
+
     const responsePayload = {
       rates: [
         {
           name: `Flete Directo (${tarifaDestino.destino})`,
           code: 'FLETE_FACTUMPLAST',
           type: 'ship',
-          price: costoTotalEnvio.toFixed(2),
-          cost: costoTotalEnvio.toFixed(2),
+          price: Number(costoTotalEnvio),
+          cost: Number(costoTotalEnvio),
           currency: 'ARS',
+          min_delivery_date: minDate.toISOString(),
+          max_delivery_date: maxDate.toISOString(),
           phone_required: true
         }
       ]
@@ -70,6 +79,7 @@ app.post('/cotizar-envio', (req, res) => {
   }
 });
 
+// Webhooks de privacidad requeridos por Tiendanube
 app.post('/webhook/store-redact', (req, res) => res.sendStatus(200));
 app.post('/webhook/customers-redact', (req, res) => res.sendStatus(200));
 app.post('/webhook/customers-data', (req, res) => res.sendStatus(200));
