@@ -7,16 +7,21 @@ app.use(express.json());
 // Endpoint de cotización que consulta Tiendanube
 app.post('/cotizar-envio', (req, res) => {
   try {
+    console.log('--- NUEVA CONSULTA ENTRANTE ---');
+    console.log('Payload completo recibido:', JSON.stringify(req.body));
+
     const { destination, items } = req.body || {};
 
     // Extraer solo dígitos del Código Postal (ej: "X5000" -> "5000")
     const rawCp = destination?.postal_code || '';
     const cp = String(rawCp).replace(/\D/g, '');
 
+    console.log(`CP recibido: "${rawCp}" | CP limpio: "${cp}"`);
+
     const tarifaDestino = tarifas[cp];
 
     if (!tarifaDestino) {
-      console.log(`CP ${cp} fuera de cobertura`);
+      console.log(`CP ${cp} no se encuentra en precios.json`);
       return res.status(200).json({ rates: [] });
     }
 
@@ -46,6 +51,7 @@ app.post('/cotizar-envio', (req, res) => {
         precioUnitario = tarifaDestino.tramo_300_400;
       }
 
+      console.log(`Producto: ${item.name || 'Item'} | Gramos: ${item.grams} | Litros calculados: ${peso} | Tarifa unitaria: $${precioUnitario}`);
       costoTotalEnvio += Number(precioUnitario || 0) * cantidad;
     }
 
@@ -64,6 +70,7 @@ app.post('/cotizar-envio', (req, res) => {
       ]
     };
 
+    console.log('Respuesta despachada:', JSON.stringify(responsePayload));
     return res.status(200).json(responsePayload);
 
   } catch (error) {
