@@ -7,34 +7,35 @@ app.use(express.json());
 // Endpoint de cotización que consulta Tiendanube
 app.post('/cotizar-envio', (req, res) => {
   try {
-    console.log('--- NUEVA CONSULTA RECIBIDA ---');
-    console.log('Payload completo:', JSON.stringify(req.body));
-
     const { destination, items } = req.body || {};
 
-    // Extraer solo números del Código Postal (ej: "B7600" -> "7600")
+    // Extraer solo dígitos del Código Postal (ej: "X5000" -> "5000")
     const rawCp = destination?.postal_code || '';
     const cp = String(rawCp).replace(/\D/g, '');
-
-    console.log(`CP recibido: "${rawCp}" -> CP procesado: "${cp}"`);
 
     const tarifaDestino = tarifas[cp];
 
     if (!tarifaDestino) {
-      console.log(`CP ${cp} no encontrado en precios.json`);
+      console.log(`CP ${cp} fuera de cobertura`);
       return res.status(200).json({ rates: [] });
     }
 
     let costoTotalEnvio = 0;
-    const itemsList = Array.isArray(items) && items.length > 0 ? items : [{ weight: 500, quantity: 1 }];
+    const itemsList = Array.isArray(items) && items.length > 0 ? items : [];
 
     for (const item of itemsList) {
-      const rawWeight = item?.weight || 0;
-      const peso = parseFloat(String(rawWeight).replace(',', '.')) || 0;
-      const cantidad = parseInt(item?.quantity, 10) || 1;
+      // Tiendanube envía gramos ("grams": 300000 -> 300 kg/litros)
+      let peso = 0;
+      if (item.grams !== undefined && item.grams !== null) {
+        peso = parseFloat(item.grams) / 1000;
+      } else if (item.weight !== undefined && item.weight !== null) {
+        peso = parseFloat(String(item.weight).replace(',', '.')) || 0;
+      }
 
+      const cantidad = parseInt(item.quantity, 10) || 1;
       let precioUnitario = 0;
 
+      // Asignación de tramos según litros/kilos
       if (peso >= 300 && peso <= 450) {
         precioUnitario = tarifaDestino.tramo_300_400;
       } else if (peso > 450 && peso <= 650) {
@@ -63,7 +64,6 @@ app.post('/cotizar-envio', (req, res) => {
       ]
     };
 
-    console.log('Respuesta enviada a Tiendanube:', JSON.stringify(responsePayload));
     return res.status(200).json(responsePayload);
 
   } catch (error) {
@@ -72,7 +72,7 @@ app.post('/cotizar-envio', (req, res) => {
   }
 });
 
-// Webhooks de privacidad requeridos por Tiendanube
+// Webhooks requeridos por Tiendanube
 app.post('/webhook/store-redact', (req, res) => res.sendStatus(200));
 app.post('/webhook/customers-redact', (req, res) => res.sendStatus(200));
 app.post('/webhook/customers-data', (req, res) => res.sendStatus(200));
