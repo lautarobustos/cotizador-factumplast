@@ -4,24 +4,18 @@ const tarifas = require('./precios.json');
 const app = express();
 app.use(express.json());
 
-// Endpoint de cotización que consulta Tiendanube
 app.post('/cotizar-envio', (req, res) => {
   try {
     console.log('--- NUEVA CONSULTA ENTRANTE ---');
-    console.log('Payload completo recibido:', JSON.stringify(req.body));
-
     const { destination, items } = req.body || {};
 
-    // Extraer solo dígitos del Código Postal (ej: "X5000" -> "5000")
     const rawCp = destination?.postal_code || '';
     const cp = String(rawCp).replace(/\D/g, '');
-
-    console.log(`CP recibido: "${rawCp}" | CP limpio: "${cp}"`);
 
     const tarifaDestino = tarifas[cp];
 
     if (!tarifaDestino) {
-      console.log(`CP ${cp} no se encuentra en precios.json`);
+      console.log(`CP ${cp} no encontrado`);
       return res.status(200).json({ rates: [] });
     }
 
@@ -29,7 +23,6 @@ app.post('/cotizar-envio', (req, res) => {
     const itemsList = Array.isArray(items) && items.length > 0 ? items : [];
 
     for (const item of itemsList) {
-      // Tiendanube envía gramos ("grams": 300000 -> 300 kg/litros)
       let peso = 0;
       if (item.grams !== undefined && item.grams !== null) {
         peso = parseFloat(item.grams) / 1000;
@@ -40,7 +33,6 @@ app.post('/cotizar-envio', (req, res) => {
       const cantidad = parseInt(item.quantity, 10) || 1;
       let precioUnitario = 0;
 
-      // Asignación de tramos según litros/kilos
       if (peso >= 300 && peso <= 450) {
         precioUnitario = tarifaDestino.tramo_300_400;
       } else if (peso > 450 && peso <= 650) {
@@ -51,20 +43,19 @@ app.post('/cotizar-envio', (req, res) => {
         precioUnitario = tarifaDestino.tramo_300_400;
       }
 
-      console.log(`Producto: ${item.name || 'Item'} | Gramos: ${item.grams} | Litros calculados: ${peso} | Tarifa unitaria: $${precioUnitario}`);
       costoTotalEnvio += Number(precioUnitario || 0) * cantidad;
     }
 
+    // Estructura requerida por Tiendanube
     const responsePayload = {
       rates: [
         {
           name: `Flete Directo (${tarifaDestino.destino})`,
           code: 'FLETE_FACTUMPLAST',
-          price: costoTotalEnvio,
-          currency: 'ARS',
           type: 'ship',
-          min_delivery_date: null,
-          max_delivery_date: null,
+          price: costoTotalEnvio.toFixed(2),
+          cost: costoTotalEnvio.toFixed(2),
+          currency: 'ARS',
           phone_required: true
         }
       ]
@@ -79,7 +70,6 @@ app.post('/cotizar-envio', (req, res) => {
   }
 });
 
-// Webhooks requeridos por Tiendanube
 app.post('/webhook/store-redact', (req, res) => res.sendStatus(200));
 app.post('/webhook/customers-redact', (req, res) => res.sendStatus(200));
 app.post('/webhook/customers-data', (req, res) => res.sendStatus(200));
