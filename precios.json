@@ -1,1871 +1,1871 @@
 {
-  "6500": {
-    "destino": "9 DE JULIO",
+  "1617": {
     "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6237": {
-    "destino": "AMERICA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "8000": {
-    "destino": "BAHIA BLANCA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7620": {
-    "destino": "BALCARCE",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6640": {
-    "destino": "BRAGADO",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2804": {
-    "destino": "CAMPANA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7167": {
-    "destino": "VALERIA DEL MAR",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6530": {
-    "destino": "CARLOS CASARES",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6740": {
-    "destino": "CHACABUCO",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7103": {
-    "destino": "CHASCOMUS",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6620": {
-    "destino": "CHIVILCOY",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7511": {
-    "destino": "RETA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7174": {
-    "destino": "CORONEL VIDAL",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7515": {
-    "destino": "DE LA GARMA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7100": {
-    "destino": "DOLORES",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7641": {
-    "destino": "ENERGIA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
+    "localidad": "PACHECO CENTRO / EL TALAR",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
   },
   "1625": {
-    "destino": "ESCOBAR",
     "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7163": {
-    "destino": "GENERAL MADARIAGA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6330": {
-    "destino": "GENERAL PIRAN",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6230": {
-    "destino": "GENERAL VILLEGAS",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6000": {
-    "destino": "JUNIN",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2806": {
-    "destino": "LIMA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7365": {
-    "destino": "LOBERIA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6700": {
-    "destino": "LUJAN",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7165": {
-    "destino": "VILLA GESELL",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7109": {
-    "destino": "MAR DE AJO",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7600": {
-    "destino": "MAR DEL PLATA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6600": {
-    "destino": "MERCEDES",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7507": {
-    "destino": "MICAELA CASCALLARES",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7607": {
-    "destino": "MIRAMAR",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7630": {
-    "destino": "NECOCHEA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7603": {
-    "destino": "NICOLAS OTAMENDI",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7503": {
-    "destino": "ORENSE",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7509": {
-    "destino": "ORIENTE",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "1617": {
-    "destino": "GENERAL PACHECO / EL TALAR",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6450": {
-    "destino": "PEHUAJO",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6343": {
-    "destino": "PELLEGRINI",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7631": {
-    "destino": "QUEQUEN",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7521": {
-    "destino": "SAN CAYETANO",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7105": {
-    "destino": "SAN CLEMENTE DEL TUYU",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2900": {
-    "destino": "SAN NICOLAS",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7609": {
-    "destino": "SANTA CLARA DEL MAR",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7107": {
-    "destino": "SANTA TERESITA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "7000": {
-    "destino": "TANDIL",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6400": {
-    "destino": "TRENQUE LAUQUEN",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6030": {
-    "destino": "VEDIA",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2800": {
-    "destino": "ZARATE",
-    "provincia": "BUENOS AIRES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "4700": {
-    "destino": "CATAMARCA",
-    "provincia": "CATAMARCA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3503": {
-    "destino": "BARRANQUERAS",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3514": {
-    "destino": "FONTANA",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3732": {
-    "destino": "GENERAL PINEDO",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3705": {
-    "destino": "JUAN JOSE CASTELLI",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3722": {
-    "destino": "LAS BREÑAS",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3534": {
-    "destino": "MACHAGAI",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3530": {
-    "destino": "QUITILIPI",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3500": {
-    "destino": "RESISTENCIA",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3700": {
-    "destino": "SAENZ PEÑA",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3541": {
-    "destino": "SANTA SYLVINA",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3714": {
-    "destino": "TACO POZO",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3735": {
-    "destino": "VILLA ANGELA",
-    "provincia": "CHACO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "9000": {
-    "destino": "COMODORO RIVADAVIA",
-    "provincia": "CHUBUT",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "9107": {
-    "destino": "DOLAVON",
-    "provincia": "CHUBUT",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "9105": {
-    "destino": "GAIMAN",
-    "provincia": "CHUBUT",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "9120": {
-    "destino": "PUERTO MADRYN",
-    "provincia": "CHUBUT",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "9103": {
-    "destino": "RAWSON",
-    "provincia": "CHUBUT",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "9100": {
-    "destino": "TRELEW",
-    "provincia": "CHUBUT",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "5186": {
-    "destino": "ALTA GRACIA",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5009": {
-    "destino": "ALTO VERDE",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "4157": {
-    "destino": "ARGUELLO",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5000": {
-    "destino": "CORDOBA RINCON Y PATRIA",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5158": {
-    "destino": "BIALET MASSE",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2419": {
-    "destino": "BRINKMANN",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5184": {
-    "destino": "CAPILLA DEL MONTE",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5166": {
-    "destino": "COSQUIN",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5280": {
-    "destino": "CRUZ DEL EJE",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5200": {
-    "destino": "DEAN FUNES",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2424": {
-    "destino": "DEVOTO",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5856": {
-    "destino": "EMBALSE RIO 3",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2413": {
-    "destino": "FREYRE",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5220": {
-    "destino": "JESUS MARIA",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5178": {
-    "destino": "LA CUMBRE",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5172": {
-    "destino": "LA FALDA",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5967": {
-    "destino": "LUQUE",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5125": {
-    "destino": "MALVINAS ARGENTINAS",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2421": {
-    "destino": "MORTEROS",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5972": {
-    "destino": "PILAR CORDOBA",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2415": {
-    "destino": "PORTEÑA",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5800": {
-    "destino": "RIO CUARTO",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5960": {
-    "destino": "RIO SEGUNDO",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5850": {
-    "destino": "RIO TERCERO",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2400": {
-    "destino": "SAN FRANCISCO",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5196": {
-    "destino": "SANTA ROSA CALAMUCHITA",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5155": {
-    "destino": "TANTI",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6216": {
-    "destino": "UNQUILLO",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5105": {
-    "destino": "VILLA ALLENDE",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5152": {
-    "destino": "VILLA CARLOS PAZ",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5194": {
-    "destino": "VILLA GENERAL BELGRANO",
-    "provincia": "CORDOBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "5963": {
-    "destino": "VILLA DEL ROSARIO",
-    "provincia": "CORODBA",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3400": {
-    "destino": "CORRIENTES",
-    "provincia": "CORRIENTES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3196": {
-    "destino": "ESQUINA",
-    "provincia": "CORRIENTES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3450": {
-    "destino": "GOYA",
-    "provincia": "CORRIENTES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3440": {
-    "destino": "SANTA LUCIA",
-    "provincia": "CORRIENTES",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3228": {
-    "destino": "CHAJARI",
-    "provincia": "ENTRE RIOS",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3280": {
-    "destino": "COLON",
-    "provincia": "ENTRE RIOS",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3260": {
-    "destino": "CONCEPCION DEL URUGUAY CD",
-    "provincia": "ENTRE RIOS",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3200": {
-    "destino": "CONCORDIA CD",
-    "provincia": "ENTRE RIOS",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3206": {
-    "destino": "FEDERACION",
-    "provincia": "ENTRE RIOS",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3180": {
-    "destino": "FEDERAL",
-    "provincia": "ENTRE RIOS",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2840": {
-    "destino": "GUALEGUAY",
-    "provincia": "ENTRE RIOS",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2820": {
-    "destino": "GUALEGUAYCHU",
-    "provincia": "ENTRE RIOS",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3100": {
-    "destino": "PARANA",
-    "provincia": "ENTRE RIOS",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3283": {
-    "destino": "SAN JOSE",
-    "provincia": "ENTRE RIOS",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "6339": {
-    "destino": "CLORINDA",
-    "provincia": "FORMOSA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3600": {
-    "destino": "FORMOSA",
-    "provincia": "FORMOSA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4506": {
-    "destino": "FRAILE PINTADO",
-    "provincia": "JUJUY",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4630": {
-    "destino": "HUMAHUACA",
-    "provincia": "JUJUY",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4650": {
-    "destino": "LA QUIACA",
-    "provincia": "JUJUY",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4512": {
-    "destino": "LEDESMA",
-    "provincia": "JUJUY",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4612": {
-    "destino": "PALPALA",
-    "provincia": "JUJUY",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4608": {
-    "destino": "PERICO",
-    "provincia": "JUJUY",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4605": {
-    "destino": "SAN ANTONIO",
-    "provincia": "JUJUY",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4500": {
-    "destino": "SAN PEDRO",
-    "provincia": "JUJUY",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4600": {
-    "destino": "SAN SALVADOR DE JUJUY",
-    "provincia": "JUJUY",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4624": {
-    "destino": "TILCARA",
-    "provincia": "JUJUY",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "6380": {
-    "destino": "EDUARDO CASTEX",
-    "provincia": "LA PAMPA",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "6360": {
-    "destino": "GENERAL PICO",
-    "provincia": "LA PAMPA",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "6300": {
-    "destino": "SANTA ROSA",
-    "provincia": "LA PAMPA",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "5300": {
-    "destino": "LA RIOJA",
-    "provincia": "LA RIOJA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5509": {
-    "destino": "VISTALBA",
-    "provincia": "MENDOZA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5549": {
-    "destino": "LAS COMPUERTAS",
-    "provincia": "MENDOZA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5505": {
-    "destino": "CHACRAS DE CORIA",
-    "provincia": "MENDOZA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5620": {
-    "destino": "GENERAL ALVEAR",
-    "provincia": "MENDOZA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5501": {
-    "destino": "GODOY CRUZ",
-    "provincia": "MENDOZA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5507": {
-    "destino": "VERTIENTES DEL PEDEMONTE",
-    "provincia": "MENDOZA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5537": {
-    "destino": "LOS SAUCES",
-    "provincia": "MENDOZA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5515": {
-    "destino": "MAIPU",
-    "provincia": "MENDOZA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5500": {
-    "destino": "MENDOZA",
-    "provincia": "MENDOZA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5570": {
-    "destino": "SAN MARTIN",
-    "provincia": "MENDOZA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5600": {
-    "destino": "SAN RAFAEL",
-    "provincia": "MENDOZA",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "3364": {
-    "destino": "SAN VICENTE",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3350": {
-    "destino": "APOSTOLES",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3366": {
-    "destino": "BERNARDO DE IRIGOYEN",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3380": {
-    "destino": "EL DORADO CD",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3333": {
-    "destino": "GARUAHPE",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3324": {
-    "destino": "GOBERNADOR ROCA",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3328": {
-    "destino": "JARDIN AMERICA",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3315": {
-    "destino": "LEANDRO N ALEM",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3384": {
-    "destino": "MONTECARLO",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3360": {
-    "destino": "OBERA",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3300": {
-    "destino": "POSADAS",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3378": {
-    "destino": "PUERTO ESPERANZA",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3370": {
-    "destino": "PUERTO IGUAZU",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "3376": {
-    "destino": "WANDA",
-    "provincia": "MISIONES",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "8300": {
-    "destino": "NEUQUEN",
-    "provincia": "NEUQUEN",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8309": {
-    "destino": "VISTA ALEGRE",
-    "provincia": "NEUQUEN",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8322": {
-    "destino": "CUTRAL CO",
-    "provincia": "NEUQUEN",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8318": {
-    "destino": "PLAZA HINCUL",
-    "provincia": "NEUQUEN",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8316": {
-    "destino": "PLOTTIER",
-    "provincia": "NEUQUEN",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8305": {
-    "destino": "BARDA DEL MEDIO",
-    "provincia": "RIO NEGRO",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8320": {
-    "destino": "SENILLOSA",
-    "provincia": "NEUQUEN",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8340": {
-    "destino": "ZAPALA",
-    "provincia": "NEUQUEN",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8400": {
-    "destino": "BARILOCHE",
-    "provincia": "RIO NEGRO",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8360": {
-    "destino": "CHOELE CHOEL",
-    "provincia": "RIO NEGRO",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8324": {
-    "destino": "CIPOLLETTI",
-    "provincia": "RIO NEGRO",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8301": {
-    "destino": "CONTRALMIRANTE CORDERO",
-    "provincia": "RIO NEGRO",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8332": {
-    "destino": "GENERAL ROCA",
-    "provincia": "RIO NEGRO",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8532": {
-    "destino": "SIERRA GRANDE",
-    "provincia": "RIO NEGRO",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "8336": {
-    "destino": "VILLA REGINA",
-    "provincia": "RIO NEGRO",
-    "tramo_300_400": 45900.0,
-    "tramo_500_550": 52700.0,
-    "tramo_750_1200": 86600.0
-  },
-  "4566": {
-    "destino": "AGUARAY",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4531": {
-    "destino": "COLONIA SANTA ROSA",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4400": {
-    "destino": "SALTA",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4550": {
-    "destino": "EMBARCACION",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4430": {
-    "destino": "GENERAL GUEMES",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4428": {
-    "destino": "GUACHIPAS",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4533": {
-    "destino": "HIPOLITO YRIGOYEN",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4448": {
-    "destino": "JOAQUIN V. GONZALEZ",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4440": {
-    "destino": "METAN",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4562": {
-    "destino": "MOSCONI",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4530": {
-    "destino": "ORAN",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4534": {
-    "destino": "PICHANAL",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4568": {
-    "destino": "SALVADOR MAZZA",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4560": {
-    "destino": "TARTAGAL",
-    "provincia": "SALTA",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "5442": {
-    "destino": "CAUCETE",
-    "provincia": "SAN JUAN",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5400": {
-    "destino": "SAN JUAN",
-    "provincia": "SAN JUAN",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5700": {
-    "destino": "SAN LUIS",
-    "provincia": "SAN LUIS",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "5730": {
-    "destino": "VILLA MERCEDES",
-    "provincia": "SAN LUIS",
-    "tramo_300_400": 44900.0,
-    "tramo_500_550": 51500.0,
-    "tramo_750_1200": 84800.0
-  },
-  "3014": {
-    "destino": "ANGEL GALLARDO",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2447": {
-    "destino": "ANGELICA",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2242": {
-    "destino": "AROCENA",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2128": {
-    "destino": "ARROYO SECO",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3561": {
-    "destino": "AVELLANEDA",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2248": {
-    "destino": "BARRANCAS",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3017": {
-    "destino": "SAN CARLOS CENTRO",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3050": {
-    "destino": "CALCHAQUI",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2303": {
-    "destino": "CAÑADA ROSQUIN",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2154": {
-    "destino": "CAPITAN BERMUDEZ",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2500": {
-    "destino": "CENTENO",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3009": {
-    "destino": "SAN CARLOS SUD",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2535": {
-    "destino": "EL TREBOL",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2630": {
-    "destino": "FIRMAT",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2156": {
-    "destino": "FRAI LUIS BELTRAN",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2407": {
-    "destino": "FRANCK",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2132": {
-    "destino": "FUNES",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2252": {
-    "destino": "GALVEZ",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2127": {
-    "destino": "GENERAL LAGOS",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3044": {
-    "destino": "GOBERNADOR CRESPO",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2152": {
-    "destino": "GRANADERO BAIGORRIA",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2140": {
-    "destino": "IBARLUCEA",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2208": {
-    "destino": "LA RIBERA",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2505": {
-    "destino": "LAS PAREJAS",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2520": {
-    "destino": "LAS ROSAS",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3586": {
-    "destino": "LAS TOSCAS",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2255": {
-    "destino": "LOPEZ",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2142": {
-    "destino": "LUIS PALACIOS",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2246": {
-    "destino": "MACIEL",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3572": {
-    "destino": "MALABRIGO",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2445": {
-    "destino": "MARIA JUANA",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2212": {
-    "destino": "MONJE",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3030": {
-    "destino": "MONTE VERA",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2206": {
-    "destino": "OLIVEROS",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2121": {
-    "destino": "PEREZ",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2202": {
-    "destino": "PUERTO SAN MARTIN",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2300": {
-    "destino": "RAFAELA",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3560": {
-    "destino": "RECONQUISTA",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2201": {
-    "destino": "RICARDONE",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2134": {
-    "destino": "ROLDAN",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
+    "localidad": "ESCOBAR",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
   },
   "2000": {
-    "destino": "ROSARIO",
     "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3013": {
-    "destino": "SAN CARLOS NORTE",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2146": {
-    "destino": "SAN GENARO",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3015": {
-    "destino": "SAN JERONIMO NORTE",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2451": {
-    "destino": "SAN JORGE",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3040": {
-    "destino": "SAN JUSTO",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2200": {
-    "destino": "SAN LORENZO",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3000": {
-    "destino": "SANTA FE",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3016": {
-    "destino": "SANTO TOME",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2240": {
-    "destino": "SAUCE VIEJO",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
+    "localidad": "ROSARIO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
   },
   "2107": {
-    "destino": "SOLDINI",
     "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
+    "localidad": "SOLDINI",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
   },
-  "2204": {
-    "destino": "TIMBUES",
+  "2121": {
     "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2144": {
-    "destino": "TOTORAS",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "3550": {
-    "destino": "VERA",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
-  },
-  "2919": {
-    "destino": "VILLA CONSTITUCION",
-    "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
+    "localidad": "PEREZ",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
   },
   "2124": {
-    "destino": "VILLA GOBERNADOR GALVEZ",
     "provincia": "SANTA FE",
-    "tramo_300_400": 29100.0,
-    "tramo_500_550": 34000.0,
-    "tramo_750_1200": 58500.0
+    "localidad": "VILLA GOBERNADOR GALVEZ",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
   },
-  "4200": {
-    "destino": "SANTIAGO DEL ESTERO",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
+  "2127": {
+    "provincia": "SANTA FE",
+    "localidad": "GENERAL LAGOS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2128": {
+    "provincia": "SANTA FE",
+    "localidad": "ARROYO SECO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2132": {
+    "provincia": "SANTA FE",
+    "localidad": "FUNES",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2134": {
+    "provincia": "SANTA FE",
+    "localidad": "ROLDAN",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2140": {
+    "provincia": "SANTA FE",
+    "localidad": "IBARLUCEA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2142": {
+    "provincia": "SANTA FE",
+    "localidad": "LUIS PALACIOS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2144": {
+    "provincia": "SANTA FE",
+    "localidad": "TOTORAS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2146": {
+    "provincia": "SANTA FE",
+    "localidad": "SAN GENARO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2152": {
+    "provincia": "SANTA FE",
+    "localidad": "GRANADERO BAIGORRIA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2154": {
+    "provincia": "SANTA FE",
+    "localidad": "CAPITAN BERMUDEZ",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2156": {
+    "provincia": "SANTA FE",
+    "localidad": "FRAI LUIS BELTRAN",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2200": {
+    "provincia": "SANTA FE",
+    "localidad": "SAN LORENZO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2201": {
+    "provincia": "SANTA FE",
+    "localidad": "RICARDONE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2202": {
+    "provincia": "SANTA FE",
+    "localidad": "PUERTO SAN MARTIN",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2204": {
+    "provincia": "SANTA FE",
+    "localidad": "TIMBUES",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2206": {
+    "provincia": "SANTA FE",
+    "localidad": "OLIVEROS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2208": {
+    "provincia": "SANTA FE",
+    "localidad": "LA RIBERA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2212": {
+    "provincia": "SANTA FE",
+    "localidad": "MONJE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2240": {
+    "provincia": "SANTA FE",
+    "localidad": "SAUCE VIEJO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2242": {
+    "provincia": "SANTA FE",
+    "localidad": "AROCENA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2246": {
+    "provincia": "SANTA FE",
+    "localidad": "MACIEL",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2248": {
+    "provincia": "SANTA FE",
+    "localidad": "BARRANCAS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2252": {
+    "provincia": "SANTA FE",
+    "localidad": "GALVEZ",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2255": {
+    "provincia": "SANTA FE",
+    "localidad": "LOPEZ",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2300": {
+    "provincia": "SANTA FE",
+    "localidad": "RAFAELA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2303": {
+    "provincia": "SANTA FE",
+    "localidad": "CAÑADA ROSQUIN",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2400": {
+    "provincia": "CORDOBA",
+    "localidad": "SAN FRANCISCO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2407": {
+    "provincia": "SANTA FE",
+    "localidad": "FRANCK",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2413": {
+    "provincia": "CORDOBA",
+    "localidad": "FREYRE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2415": {
+    "provincia": "CORDOBA",
+    "localidad": "PORTEÑA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2419": {
+    "provincia": "CORDOBA",
+    "localidad": "BRINKMANN",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2421": {
+    "provincia": "CORDOBA",
+    "localidad": "MORTEROS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2424": {
+    "provincia": "CORDOBA",
+    "localidad": "DEVOTO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2445": {
+    "provincia": "SANTA FE",
+    "localidad": "MARIA JUANA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2447": {
+    "provincia": "SANTA FE",
+    "localidad": "ANGELICA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2451": {
+    "provincia": "SANTA FE",
+    "localidad": "SAN JORGE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2500": {
+    "provincia": "SANTA FE",
+    "localidad": "CENTENO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2505": {
+    "provincia": "SANTA FE",
+    "localidad": "LAS PAREJAS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2520": {
+    "provincia": "SANTA FE",
+    "localidad": "LAS ROSAS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2535": {
+    "provincia": "SANTA FE",
+    "localidad": "EL TREBOL",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2630": {
+    "provincia": "SANTA FE",
+    "localidad": "FIRMAT",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2800": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "ZARATE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2804": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "CAMPANA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2806": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "LIMA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2820": {
+    "provincia": "ENTRE RIOS",
+    "localidad": "GUALEGUAYCHU",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2840": {
+    "provincia": "ENTRE RIOS",
+    "localidad": "GUALEGUAY",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2900": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "SAN NICOLAS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "2919": {
+    "provincia": "SANTA FE",
+    "localidad": "VILLA CONSTITUCION",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3000": {
+    "provincia": "SANTA FE",
+    "localidad": "SANTA FE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3009": {
+    "provincia": "SANTA FE",
+    "localidad": "CORONDA / SAN CARLOS SUD",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3013": {
+    "provincia": "SANTA FE",
+    "localidad": "SAN CARLOS NORTE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3014": {
+    "provincia": "SANTA FE",
+    "localidad": "ANGEL GALLARDO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3015": {
+    "provincia": "SANTA FE",
+    "localidad": "SAN JERONIMO NORTE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3016": {
+    "provincia": "SANTA FE",
+    "localidad": "SANTO TOME",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3017": {
+    "provincia": "SANTA FE",
+    "localidad": "BERNARDO DE IRIGOYEN / SAN CARLOS CENTRO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3030": {
+    "provincia": "SANTA FE",
+    "localidad": "MONTE VERA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3040": {
+    "provincia": "SANTA FE",
+    "localidad": "SAN JUSTO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3044": {
+    "provincia": "SANTA FE",
+    "localidad": "GOBERNADOR CRESPO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3050": {
+    "provincia": "SANTA FE",
+    "localidad": "CALCHAQUI",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3100": {
+    "provincia": "ENTRE RIOS",
+    "localidad": "PARANA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3180": {
+    "provincia": "ENTRE RIOS",
+    "localidad": "FEDERAL",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3196": {
+    "provincia": "CORRIENTES",
+    "localidad": "ESQUINA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3200": {
+    "provincia": "ENTRE RIOS",
+    "localidad": "CONCORDIA / CONCORDIA CD",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3206": {
+    "provincia": "ENTRE RIOS",
+    "localidad": "FEDERACION",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3228": {
+    "provincia": "ENTRE RIOS",
+    "localidad": "CHAJARI",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3260": {
+    "provincia": "ENTRE RIOS",
+    "localidad": "CONCEPCION DEL URUGUAY / CONCEPCION DEL URUGUAY CD",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3280": {
+    "provincia": "ENTRE RIOS",
+    "localidad": "COLON",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3283": {
+    "provincia": "ENTRE RIOS",
+    "localidad": "SAN JOSE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3300": {
+    "provincia": "MISIONES",
+    "localidad": "POSADAS",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3315": {
+    "provincia": "MISIONES",
+    "localidad": "LEANDRO N ALEM",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3324": {
+    "provincia": "MISIONES",
+    "localidad": "GOBERNADOR ROCA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3328": {
+    "provincia": "MISIONES",
+    "localidad": "JARDIN AMERICA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3333": {
+    "provincia": "MISIONES",
+    "localidad": "GARUAHPE",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3350": {
+    "provincia": "MISIONES",
+    "localidad": "APOSTOLES",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3360": {
+    "provincia": "MISIONES",
+    "localidad": "OBERA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3364": {
+    "provincia": "MISIONES",
+    "localidad": "ANDRESITO / ARISTOBULO DEL VALLE / EL SOBERBIO / SAN PEDRO / SAN VICENTE",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3366": {
+    "provincia": "MISIONES",
+    "localidad": "BERNARDO DE IRIGOYEN",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3370": {
+    "provincia": "MISIONES",
+    "localidad": "PUERTO IGUAZU",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3376": {
+    "provincia": "MISIONES",
+    "localidad": "WANDA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3378": {
+    "provincia": "MISIONES",
+    "localidad": "PUERTO ESPERANZA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3380": {
+    "provincia": "MISIONES",
+    "localidad": "EL DORADO / EL DORADO CD",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3384": {
+    "provincia": "MISIONES",
+    "localidad": "MONTECARLO",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3400": {
+    "provincia": "CORRIENTES",
+    "localidad": "CORRIENTES",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3440": {
+    "provincia": "CORRIENTES",
+    "localidad": "SANTA LUCIA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3450": {
+    "provincia": "CORRIENTES",
+    "localidad": "GOYA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3500": {
+    "provincia": "CHACO",
+    "localidad": "RESISTENCIA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3503": {
+    "provincia": "CHACO",
+    "localidad": "BARRANQUERAS",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3514": {
+    "provincia": "CHACO",
+    "localidad": "FONTANA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3530": {
+    "provincia": "CHACO",
+    "localidad": "QUITILIPI",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3534": {
+    "provincia": "CHACO",
+    "localidad": "MACHAGAI",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3541": {
+    "provincia": "CHACO",
+    "localidad": "SANTA SYLVINA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3550": {
+    "provincia": "SANTA FE",
+    "localidad": "VERA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3560": {
+    "provincia": "SANTA FE",
+    "localidad": "RECONQUISTA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3561": {
+    "provincia": "SANTA FE",
+    "localidad": "AVELLANEDA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3572": {
+    "provincia": "SANTA FE",
+    "localidad": "MALABRIGO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3586": {
+    "provincia": "SANTA FE",
+    "localidad": "LAS TOSCAS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "3600": {
+    "provincia": "FORMOSA",
+    "localidad": "FORMOSA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3700": {
+    "provincia": "CHACO",
+    "localidad": "SAENZ PEÑA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3705": {
+    "provincia": "CHACO",
+    "localidad": "JUAN JOSE CASTELLI",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3714": {
+    "provincia": "CHACO",
+    "localidad": "TACO POZO",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3722": {
+    "provincia": "CHACO",
+    "localidad": "LAS BREÑAS",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3732": {
+    "provincia": "CHACO",
+    "localidad": "GENERAL PINEDO",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "3735": {
+    "provincia": "CHACO",
+    "localidad": "VILLA ANGELA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
   },
   "4000": {
-    "destino": "TUCUMAN",
     "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4152": {
-    "destino": "AGUILARES",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4158": {
-    "destino": "ALBERDI",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4179": {
-    "destino": "ALDERETES",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4174": {
-    "destino": "ATAHONA (TUC)",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4109": {
-    "destino": "BANDA DE RIO SALI",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4168": {
-    "destino": "BELLA VISTA",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4146": {
-    "destino": "CONCEPCION",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4117": {
-    "destino": "LA FLORIDA",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4201": {
-    "destino": "EL MANANTIAL",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4132": {
-    "destino": "FAMAILLA",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4111": {
-    "destino": "SAN ANDRES",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4162": {
-    "destino": "LA COCHA",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4129": {
-    "destino": "LA REDUCCION",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4182": {
-    "destino": "LOS RALOS",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4128": {
-    "destino": "LULES",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4142": {
-    "destino": "MONTEROS",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4145": {
-    "destino": "RIO CECO",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4153": {
-    "destino": "RIO CHICO",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4172": {
-    "destino": "SIMOCA",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4137": {
-    "destino": "TAFI DEL VALLE",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4103": {
-    "destino": "TAFI VIEJO",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
-  },
-  "4144": {
-    "destino": "VILLA QUINTEROS",
-    "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
+    "localidad": "ACCESO NORTE / AVENIDA EJERCITO / TUCUMAN",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
   },
   "4001": {
-    "destino": "YERBA BUENA",
     "provincia": "TUCUMAN",
-    "tramo_300_400": 47100.0,
-    "tramo_500_550": 54000.0,
-    "tramo_750_1200": 88500.0
+    "localidad": "YERBA BUENA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4103": {
+    "provincia": "TUCUMAN",
+    "localidad": "TAFI VIEJO",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4109": {
+    "provincia": "TUCUMAN",
+    "localidad": "BANDA DE RIO SALI",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4111": {
+    "provincia": "TUCUMAN",
+    "localidad": "INGENIERO LASTENIA / SAN ANDRES",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4117": {
+    "provincia": "TUCUMAN",
+    "localidad": "DELFIN GALLO / LA FLORIDA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4128": {
+    "provincia": "TUCUMAN",
+    "localidad": "LULES",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4129": {
+    "provincia": "TUCUMAN",
+    "localidad": "LA REDUCCION",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4132": {
+    "provincia": "TUCUMAN",
+    "localidad": "FAMAILLA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4137": {
+    "provincia": "TUCUMAN",
+    "localidad": "TAFI DEL VALLE",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4142": {
+    "provincia": "TUCUMAN",
+    "localidad": "MONTEROS",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4144": {
+    "provincia": "TUCUMAN",
+    "localidad": "VILLA QUINTEROS",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4145": {
+    "provincia": "TUCUMAN",
+    "localidad": "RIO CECO",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4146": {
+    "provincia": "TUCUMAN",
+    "localidad": "CONCEPCION",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4152": {
+    "provincia": "TUCUMAN",
+    "localidad": "AGUILARES",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4153": {
+    "provincia": "TUCUMAN",
+    "localidad": "RIO CHICO",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4157": {
+    "provincia": "CORDOBA",
+    "localidad": "ARGUELLO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "4158": {
+    "provincia": "TUCUMAN",
+    "localidad": "ALBERDI",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4162": {
+    "provincia": "TUCUMAN",
+    "localidad": "LA COCHA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4168": {
+    "provincia": "TUCUMAN",
+    "localidad": "BELLA VISTA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4172": {
+    "provincia": "TUCUMAN",
+    "localidad": "SIMOCA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4174": {
+    "provincia": "TUCUMAN",
+    "localidad": "ATAHONA (TUC)",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4179": {
+    "provincia": "TUCUMAN",
+    "localidad": "ALDERETES",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4182": {
+    "provincia": "TUCUMAN",
+    "localidad": "LOS RALOS",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4200": {
+    "provincia": "SANTIAGO DEL ESTERO",
+    "localidad": "SANTIAGO DEL ESTERO",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4201": {
+    "provincia": "TUCUMAN",
+    "localidad": "EL MANANTIAL",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4400": {
+    "provincia": "SALTA",
+    "localidad": "CENTRO SALTA / SALTA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4428": {
+    "provincia": "SALTA",
+    "localidad": "GUACHIPAS",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4430": {
+    "provincia": "SALTA",
+    "localidad": "GENERAL GUEMES",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4440": {
+    "provincia": "SALTA",
+    "localidad": "METAN",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4448": {
+    "provincia": "SALTA",
+    "localidad": "JOAQUIN V. GONZALEZ",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4500": {
+    "provincia": "JUJUY",
+    "localidad": "SAN PEDRO",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4506": {
+    "provincia": "JUJUY",
+    "localidad": "FRAILE PINTADO",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4512": {
+    "provincia": "JUJUY",
+    "localidad": "LEDESMA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4530": {
+    "provincia": "SALTA",
+    "localidad": "ORAN",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4531": {
+    "provincia": "SALTA",
+    "localidad": "AGUAS BLANCAS / COLONIA SANTA ROSA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4533": {
+    "provincia": "SALTA",
+    "localidad": "HIPOLITO YRIGOYEN",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4534": {
+    "provincia": "SALTA",
+    "localidad": "PICHANAL",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4550": {
+    "provincia": "SALTA",
+    "localidad": "EMBARCACION",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4560": {
+    "provincia": "SALTA",
+    "localidad": "TARTAGAL",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4562": {
+    "provincia": "SALTA",
+    "localidad": "MOSCONI",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4566": {
+    "provincia": "SALTA",
+    "localidad": "AGUARAY",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4568": {
+    "provincia": "SALTA",
+    "localidad": "SALVADOR MAZZA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4600": {
+    "provincia": "JUJUY",
+    "localidad": "SAN SALVADOR DE JUJUY",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4605": {
+    "provincia": "JUJUY",
+    "localidad": "SAN ANTONIO",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4608": {
+    "provincia": "JUJUY",
+    "localidad": "PERICO",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4612": {
+    "provincia": "JUJUY",
+    "localidad": "PALPALA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4624": {
+    "provincia": "JUJUY",
+    "localidad": "TILCARA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4630": {
+    "provincia": "JUJUY",
+    "localidad": "HUMAHUACA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4650": {
+    "provincia": "JUJUY",
+    "localidad": "LA QUIACA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "4700": {
+    "provincia": "CATAMARCA",
+    "localidad": "CATAMARCA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "5000": {
+    "provincia": "CORDOBA",
+    "localidad": "CORDOBA / BARRIO GENERAL BUSTOS / RINCON Y PATRIA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5009": {
+    "provincia": "CORDOBA",
+    "localidad": "ALTO VERDE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5105": {
+    "provincia": "CORDOBA",
+    "localidad": "VILLA ALLENDE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5125": {
+    "provincia": "CORDOBA",
+    "localidad": "MALVINAS ARGENTINAS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5152": {
+    "provincia": "CORDOBA",
+    "localidad": "VILLA CARLOS PAZ",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5155": {
+    "provincia": "CORDOBA",
+    "localidad": "TANTI",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5158": {
+    "provincia": "CORDOBA",
+    "localidad": "BIALET MASSE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5166": {
+    "provincia": "CORDOBA",
+    "localidad": "COSQUIN",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5172": {
+    "provincia": "CORDOBA",
+    "localidad": "LA FALDA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5178": {
+    "provincia": "CORDOBA",
+    "localidad": "LA CUMBRE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5184": {
+    "provincia": "CORDOBA",
+    "localidad": "CAPILLA DEL MONTE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5186": {
+    "provincia": "CORDOBA",
+    "localidad": "ALTA GRACIA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5194": {
+    "provincia": "CORDOBA",
+    "localidad": "VILLA GENERAL BELGRANO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5196": {
+    "provincia": "CORDOBA",
+    "localidad": "SANTA ROSA CALAMUCHITA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5200": {
+    "provincia": "CORDOBA",
+    "localidad": "DEAN FUNES",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5220": {
+    "provincia": "CORDOBA",
+    "localidad": "JESUS MARIA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5280": {
+    "provincia": "CORDOBA",
+    "localidad": "CRUZ DEL EJE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5300": {
+    "provincia": "LA RIOJA",
+    "localidad": "LA RIOJA",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5400": {
+    "provincia": "SAN JUAN",
+    "localidad": "SAN JUAN",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5442": {
+    "provincia": "SAN JUAN",
+    "localidad": "CAUCETE",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5500": {
+    "provincia": "MENDOZA",
+    "localidad": "MENDOZA",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5501": {
+    "provincia": "MENDOZA",
+    "localidad": "GODOY CRUZ",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5505": {
+    "provincia": "MENDOZA",
+    "localidad": "CARRODILLA / CHACRAS DE CORIA",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5507": {
+    "provincia": "MENDOZA",
+    "localidad": "INDUSTRIAL / LUJAN DE CUYO / MAYOR DRUMMOND / VERTIENTES DEL PEDEMONTE",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5509": {
+    "provincia": "MENDOZA",
+    "localidad": "AGRELO / ANCHORIS / CARRIZAL DE ABAJO / PERDRIEL / UGARTECHE / VISTALBA",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5515": {
+    "provincia": "MENDOZA",
+    "localidad": "MAIPU",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5537": {
+    "provincia": "MENDOZA",
+    "localidad": "LOS SAUCES",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5549": {
+    "provincia": "MENDOZA",
+    "localidad": "BLANCO ENCALADA / CACHEUTA / LAS COMPUERTAS",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5570": {
+    "provincia": "MENDOZA",
+    "localidad": "SAN MARTIN",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5600": {
+    "provincia": "MENDOZA",
+    "localidad": "SAN RAFAEL",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5620": {
+    "provincia": "MENDOZA",
+    "localidad": "GENERAL ALVEAR",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5700": {
+    "provincia": "SAN LUIS",
+    "localidad": "SAN LUIS",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5730": {
+    "provincia": "SAN LUIS",
+    "localidad": "VILLA MERCEDES",
+    "tramo_300_400": 44900,
+    "tramo_500_550": 51500,
+    "tramo_750_1200": 84800
+  },
+  "5800": {
+    "provincia": "CORDOBA",
+    "localidad": "RIO CUARTO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5850": {
+    "provincia": "CORDOBA",
+    "localidad": "RIO TERCERO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5856": {
+    "provincia": "CORDOBA",
+    "localidad": "EMBALSE RIO 3",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5960": {
+    "provincia": "CORDOBA",
+    "localidad": "RIO SEGUNDO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5963": {
+    "provincia": "CORDOBA",
+    "localidad": "VILLA DEL ROSARIO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5967": {
+    "provincia": "CORDOBA",
+    "localidad": "LUQUE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "5972": {
+    "provincia": "CORDOBA",
+    "localidad": "PILAR CORDOBA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6000": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "JUNIN",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6030": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "VEDIA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6216": {
+    "provincia": "CORDOBA",
+    "localidad": "UNQUILLO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6230": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "GENERAL VILLEGAS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6237": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "AMERICA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6300": {
+    "provincia": "LA PAMPA",
+    "localidad": "SANTA ROSA",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "6330": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "GENERAL PIRAN",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6339": {
+    "provincia": "FORMOSA",
+    "localidad": "CLORINDA",
+    "tramo_300_400": 47100,
+    "tramo_500_550": 54000,
+    "tramo_750_1200": 88500
+  },
+  "6343": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "PELLEGRINI",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6360": {
+    "provincia": "LA PAMPA",
+    "localidad": "GENERAL PICO",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "6380": {
+    "provincia": "LA PAMPA",
+    "localidad": "EDUARDO CASTEX",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "6400": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "TRENQUE LAUQUEN",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6450": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "PEHUAJO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6500": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "9 DE JULIO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6530": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "CARLOS CASARES",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6600": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "MERCEDES",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6620": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "CHIVILCOY",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6640": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "BRAGADO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6700": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "LUJAN",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "6740": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "CHACABUCO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7000": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "TANDIL",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7100": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "DOLORES",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7103": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "CHASCOMUS",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7105": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "SAN CLEMENTE DEL TUYU",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7107": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "SANTA TERESITA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7109": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "MAR DE AJO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7163": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "GENERAL MADARIAGA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7165": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "MAR AZUL / MAR DE LAS PAMPAS / VILLA GESELL",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7167": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "CARILO / PINAMAR / VALERIA DEL MAR",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7174": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "CORONEL VIDAL",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7365": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "LOBERIA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7503": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "ORENSE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7507": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "MICAELA CASCALLARES",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7509": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "ORIENTE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7511": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "COPETONAS / RETA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7515": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "DE LA GARMA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7521": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "SAN CAYETANO",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7600": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "MAR DEL PLATA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7603": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "NICOLAS OTAMENDI",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7607": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "MIRAMAR",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7609": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "SANTA CLARA DEL MAR",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7620": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "BALCARCE",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7630": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "NECOCHEA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7631": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "QUEQUEN",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "7641": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "ENERGIA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "8000": {
+    "provincia": "BUENOS AIRES",
+    "localidad": "BAHIA BLANCA",
+    "tramo_300_400": 29100,
+    "tramo_500_550": 34000,
+    "tramo_750_1200": 58500
+  },
+  "8300": {
+    "provincia": "NEUQUEN",
+    "localidad": "CD NEUQUEN / NEUQUEN",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8301": {
+    "provincia": "RIO NEGRO",
+    "localidad": "CONTRALMIRANTE CORDERO",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8305": {
+    "provincia": "NEUQUEN / RIO NEGRO",
+    "localidad": "SAN PATRICIO DEL CHAÑAR / BARDA DEL MEDIO",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8309": {
+    "provincia": "NEUQUEN",
+    "localidad": "CENTENARIO / VISTA ALEGRE",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8316": {
+    "provincia": "NEUQUEN",
+    "localidad": "PLOTTIER",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8318": {
+    "provincia": "NEUQUEN",
+    "localidad": "PLAZA HUINCUL",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8320": {
+    "provincia": "NEUQUEN",
+    "localidad": "SENILLOSA",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8322": {
+    "provincia": "NEUQUEN",
+    "localidad": "CUTRAL CO",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8324": {
+    "provincia": "RIO NEGRO",
+    "localidad": "CIPOLLETTI",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8332": {
+    "provincia": "RIO NEGRO",
+    "localidad": "GENERAL ROCA",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8336": {
+    "provincia": "RIO NEGRO",
+    "localidad": "VILLA REGINA",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8340": {
+    "provincia": "NEUQUEN",
+    "localidad": "ZAPALA",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8360": {
+    "provincia": "RIO NEGRO",
+    "localidad": "CHOELE CHOEL",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8400": {
+    "provincia": "RIO NEGRO",
+    "localidad": "BARILOCHE",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "8532": {
+    "provincia": "RIO NEGRO",
+    "localidad": "SIERRA GRANDE",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "9000": {
+    "provincia": "CHUBUT",
+    "localidad": "COMODORO RIVADAVIA",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "9100": {
+    "provincia": "CHUBUT",
+    "localidad": "TRELEW",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "9103": {
+    "provincia": "CHUBUT",
+    "localidad": "RAWSON",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "9105": {
+    "provincia": "CHUBUT",
+    "localidad": "GAIMAN",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "9107": {
+    "provincia": "CHUBUT",
+    "localidad": "DOLAVON",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
+  },
+  "9120": {
+    "provincia": "CHUBUT",
+    "localidad": "PUERTO MADRYN",
+    "tramo_300_400": 45900,
+    "tramo_500_550": 52700,
+    "tramo_750_1200": 86600
   }
 }
