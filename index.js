@@ -54,10 +54,13 @@ app.post('/cotizar-envio', (req, res) => {
     const maxDate = new Date(hoy);
     maxDate.setDate(hoy.getDate() + 7);
 
+    // Obtenemos la provincia desde el destino de Tiendanube
+    const nombreProvincia = destination?.province || tarifaDestino.destino || 'Destino';
+
     const responsePayload = {
       rates: [
         {
-          name: `Flete Directo (${tarifaDestino.destino})`,
+          name: `Flecha Carga / Buspack (${nombreProvincia})`,
           code: 'FLETE_FACTUMPLAST',
           type: 'ship',
           price: Number(costoTotalEnvio),
@@ -88,3 +91,4 @@ const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => {
   console.log(`Servidor activo en el puerto ${PORT}`);
 });
+
