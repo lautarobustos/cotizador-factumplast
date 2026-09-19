@@ -47,20 +47,22 @@ app.post('/cotizar-envio', (req, res) => {
       costoTotalEnvio += Number(precioUnitario || 0) * cantidad;
     }
 
-    // Calculamos entrega estimada (de 3 a 7 días a partir de hoy)
+    // Plazos estimados de entrega (3 a 7 días hábiles)
     const hoy = new Date();
     const minDate = new Date(hoy);
     minDate.setDate(hoy.getDate() + 3);
     const maxDate = new Date(hoy);
     maxDate.setDate(hoy.getDate() + 7);
 
-    // Obtenemos la provincia desde el destino de Tiendanube
-    const nombreProvincia = destination?.province || tarifaDestino.destino || 'Destino';
+    // Formato de nombre: Flecha Carga / Buspack - PROVINCIA (LOCALIDADES)
+    const provincia = tarifaDestino.provincia || destination?.province || 'Destino';
+    const localidad = tarifaDestino.localidad || tarifaDestino.destino || '';
+    const etiquetaZona = localidad ? `${provincia} (${localidad})` : provincia;
 
     const responsePayload = {
       rates: [
         {
-          name: `Flecha Carga / Buspack (${nombreProvincia})`,
+          name: `Flecha Carga / Buspack - ${etiquetaZona}`,
           code: 'FLETE_FACTUMPLAST',
           type: 'ship',
           price: Number(costoTotalEnvio),
@@ -91,4 +93,3 @@ const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => {
   console.log(`Servidor activo en el puerto ${PORT}`);
 });
-
