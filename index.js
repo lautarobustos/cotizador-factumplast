@@ -4,6 +4,20 @@ const tarifas = require('./precios.json');
 const app = express();
 app.use(express.json());
 
+// Función para calcular fechas omitiendo sábados y domingos
+function sumarDiasHabiles(fechaInicio, diasASumar) {
+  const fecha = new Date(fechaInicio);
+  let diasAgregados = 0;
+  while (diasAgregados < diasASumar) {
+    fecha.setDate(fecha.getDate() + 1);
+    const diaSemana = fecha.getDay(); // 0 = Domingo, 6 = Sábado
+    if (diaSemana !== 0 && diaSemana !== 6) {
+      diasAgregados++;
+    }
+  }
+  return fecha;
+}
+
 // Endpoint de cotización que consulta Tiendanube
 app.post('/cotizar-envio', (req, res) => {
   try {
@@ -47,12 +61,13 @@ app.post('/cotizar-envio', (req, res) => {
       costoTotalEnvio += Number(precioUnitario || 0) * cantidad;
     }
 
-    // Plazos estimados de entrega (3 a 7 días hábiles)
+    // Rango de entrega: 7 a 10 días hábiles
+    const diasMin = 7;
+    const diasMax = 10;
+
     const hoy = new Date();
-    const minDate = new Date(hoy);
-    minDate.setDate(hoy.getDate() + 3);
-    const maxDate = new Date(hoy);
-    maxDate.setDate(hoy.getDate() + 7);
+    const minDate = sumarDiasHabiles(hoy, diasMin);
+    const maxDate = sumarDiasHabiles(hoy, diasMax);
 
     // Formato de nombre: Flecha Carga / Buspack - PROVINCIA (LOCALIDADES)
     const provincia = tarifaDestino.provincia || destination?.province || 'Destino';
@@ -68,6 +83,8 @@ app.post('/cotizar-envio', (req, res) => {
           price: Number(costoTotalEnvio),
           cost: Number(costoTotalEnvio),
           currency: 'ARS',
+          min_delivery_days: diasMin,
+          max_delivery_days: diasMax,
           min_delivery_date: minDate.toISOString(),
           max_delivery_date: maxDate.toISOString(),
           phone_required: true
@@ -93,3 +110,4 @@ const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => {
   console.log(`Servidor activo en el puerto ${PORT}`);
 });
+
